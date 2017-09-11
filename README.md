@@ -8,3 +8,5 @@ Intro to Sinatra
 
 ### For Next Time
 Sinatra Basics Chapter in Flatiron
+
+I smell funny.
